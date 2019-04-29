@@ -1,0 +1,7 @@
+spring:
+  mail:
+    host: smtp.126.com
+    username: xxx@126.com
+    password: password
+    #ÊÚ™à´a ·ÇÃÜ´a
+    default-encoding: utf-8
